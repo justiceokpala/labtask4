@@ -1,0 +1,11 @@
+C:\CodebitsAcademy\c#\daze-works\assignment4\task3\obj\Debug\netcoreapp3.1\task3.csprojAssemblyReference.cache
+C:\CodebitsAcademy\c#\daze-works\assignment4\task3\obj\Debug\netcoreapp3.1\task3.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\c#\daze-works\assignment4\task3\obj\Debug\netcoreapp3.1\task3.AssemblyInfo.cs
+C:\CodebitsAcademy\c#\daze-works\assignment4\task3\bin\Debug\netcoreapp3.1\task3.exe
+C:\CodebitsAcademy\c#\daze-works\assignment4\task3\bin\Debug\netcoreapp3.1\task3.deps.json
+C:\CodebitsAcademy\c#\daze-works\assignment4\task3\bin\Debug\netcoreapp3.1\task3.runtimeconfig.json
+C:\CodebitsAcademy\c#\daze-works\assignment4\task3\bin\Debug\netcoreapp3.1\task3.runtimeconfig.dev.json
+C:\CodebitsAcademy\c#\daze-works\assignment4\task3\bin\Debug\netcoreapp3.1\task3.dll
+C:\CodebitsAcademy\c#\daze-works\assignment4\task3\bin\Debug\netcoreapp3.1\task3.pdb
+C:\CodebitsAcademy\c#\daze-works\assignment4\task3\obj\Debug\netcoreapp3.1\task3.dll
+C:\CodebitsAcademy\c#\daze-works\assignment4\task3\obj\Debug\netcoreapp3.1\task3.pdb
